@@ -6,6 +6,7 @@ A list of open-source game development, graphics, and audio tools and editors.
 
 - [Image editors](#image-editors)
 - [Level editors](#level-editors)
+  - [Navigation-mesh editors](#navigation-mesh-editors)
 
 ## Image editors
 
@@ -20,3 +21,7 @@ A list of open-source game development, graphics, and audio tools and editors.
 - **[Tiled Map Editor](https://www.mapeditor.org)** - Flexible level editor. [[source]](https://github.com/mapeditor/tiled)
 
 - **[TrenchBroom](https://trenchbroom.github.io)** - Cross-Platform Level Editor. [[source]](https://github.com/TrenchBroom/TrenchBroom)
+
+### Navigation-mesh editors
+
+- **[Recast Navigation](https://recastnav.com)** - Industry-standard navigation-mesh toolset for games. [[source]](https://github.com/recastnavigation/recastnavigation)
