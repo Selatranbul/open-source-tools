@@ -15,6 +15,8 @@ A list of open-source game development, graphics, and audio tools and editors.
 
 - **[Level Designer Toolkit](https://ldtk.io)** - Modern, lightweight and efficient 2D level editor. [[source]](https://github.com/deepnight/ldtk)
 
+- **[Ogmo Editor 3](https://ogmo-editor-3.github.io)** - A free, open source, project oriented level editor. [[source]](https://github.com/Ogmo-Editor-3/OgmoEditor3-CE)
+
 - **[Tiled Map Editor](https://www.mapeditor.org)** - Flexible level editor. [[source]](https://github.com/mapeditor/tiled)
 
 - **[TrenchBroom](https://trenchbroom.github.io)** - Cross-Platform Level Editor. [[source]](https://github.com/TrenchBroom/TrenchBroom)
