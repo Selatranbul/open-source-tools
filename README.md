@@ -4,7 +4,12 @@ A list of open-source game development, graphics, and audio tools and editors.
 
 ## Table of contents
 
+- [Image editors](#image-editors)
 - [Level editors](#level-editors)
+
+## Image editors
+
+- **[Aseprite](https://www.aseprite.org)** - Animated sprite editor & pixel art tool. [[source]](https://github.com/aseprite/aseprite)
 
 ## Level editors
 
