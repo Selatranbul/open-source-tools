@@ -4,10 +4,15 @@ A list of open-source game development, graphics, and audio tools and editors.
 
 ## Table of contents
 
+- [Diagrams Drawing](#diagrams-drawing)
 - [Image editors](#image-editors)
 - [Level editors](#level-editors)
   - [Navigation-mesh editors](#navigation-mesh-editors)
 - [UI desgin tools](#ui-design-tools)
+
+## Diagrams Drawing
+
+- **[Penrose](https://penrose.cs.cmu.edu)** - Create beautiful diagrams just by typing notation in plain text. [[source]](https://github.com/penrose/penrose)
 
 ## Image editors
 
